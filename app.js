@@ -48,7 +48,7 @@ function showScores() {
 var questions = [
 /*1*/ new Question("During his embarrassing Dundie award presentation, Michael covers a number of popular songs. To whom is Michael presenting a Dundie award when he sings along to 'You Sexy Thing'?", ['Pam', 'Dwight', 'Ryan', 'Jim'], 'Ryan'),
 /*2*/ new Question("What disappointing homemade Secret Santa gift did Michael receive from Phyllis that prompted 'Yankee Swap,' a game which enabled characters to steal someone else's gift?", ['Fruit cake', 'Painting', 'Oven Mitt', 'Sculpture'], 'Oven Mitt'),
-/*3*/ new Question("What ringtone song played repeatedly on Andy's cell phone when Jim hid it in the ceiling at the office?", ["Can't Touch This", 'Mrs. Robinson', 'Hungry Eyes', "Rockin' Robin"], "Rochin' Robin"),
+/*3*/ new Question("What ringtone song played repeatedly on Andy's cell phone when Jim hid it in the ceiling at the office?", ["Can't Touch This", 'Mrs. Robinson', 'Hungry Eyes', "Rockin' Robin"], "Rockin' Robin"),
 /*4*/ new Question("Which of the following members of the office do NOT bring a child to work in the season 2 episode 'Take Your Daughter to Work Day'?", ['Stanley', 'Toby', 'Creed', 'Kevin'], 'Creed'),
 /*5*/ new Question("Who admits responsibility for inhaling pot smoke at an Alicia Keys concert in 'Drug Testing'?", ['Ryan', 'Michael', 'Creed', 'Jim'], 'Michael'),
 /*6*/  new Question("Which of the following guests is not present at Michael and Jan's condo in the season 4 episode 'Dinner Party'?", ['Oscar', 'Angela', 'Pam', 'Jim'], 'Oscar'),
