@@ -72,9 +72,7 @@ body {
     background-color: #57636e;
 }
 
-.scoreImg{
-    display: block;
-}
+
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
@@ -144,6 +142,25 @@ body {
     .buttons{
         margin-top: 30px;
         margin-left: 45px;
+    }
+    
+  }
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .buttons{
+        margin-top: 30px;
+        margin-left: 45px;
+    }
+    
+  }
+
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .scoreImg{
+        width: 100%;
+        height: 115%;
     }
     
   }

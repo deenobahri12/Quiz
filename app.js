@@ -35,8 +35,8 @@ function showProgress() {
 
 function showScores() {
     var gameOverHtml = "<h1>Result</h1>";
-    var restartBtn = "<br><br> <button class='btn4' value='Refresh Page' onClick='window.location.href=window.location.href'> Restart </button>"
-    var scoreImg = "<br> <img src='3858621.gif' alt='M.Scott'>"
+    var restartBtn = "<br><br> <button class='btn4' value='Refresh Page' onClick='window.location.href=window.location.href'> Try Again! </button>"
+    var scoreImg = "<br> <img src='3858621.gif' alt='M.Scott' class ='scoreImg'>"
     gameOverHtml += "<h2 id='score'> Your Score: " + quiz.score + restartBtn + scoreImg + "</h2>"    
 
     var element = document.getElementById("quiz");
