@@ -75,3 +75,75 @@ body {
 .scoreImg{
     display: block;
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    body {
+        background-size: 280%;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .grid {
+        width: 85%;
+        height: 45%;
+        margin: auto 0;
+        background-color: #fff;
+        padding: 5px 25px 25px 25px;
+        border-radius: 50px;
+        border: 2px solid #cbcbcb;
+        box-shadow: 2.5px 10px 2.5px #cbcbcb;
+
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .grid h1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: #57636e;
+        font-size: 50px;
+        text-align: center;
+        color: #fff;
+        padding: 2px 0px;
+        border-radius: 15px;
+    }
+    
+  }
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .grid #question{
+        font-family: sans-serif;
+        font-size: 20px;
+        color: #5a6772;
+    }
+    
+  }
+
+ 
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    #btn0, #btn1, #btn2, #btn3{
+        background-color: #778897;
+        width: 240px;
+        font-size: 20px;
+        color: #fff;
+        border: 1px solid #1d3c6a;
+        border-radius: 50px;
+        margin: 5px 20px 5px 0px;
+        padding: 12.5px 12.5px;
+        
+    }
+    
+  }
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .buttons{
+        margin-top: 30px;
+        margin-left: 45px;
+    }
+    
+  }
